@@ -45,4 +45,4 @@ The goal of this project is to:
 * 📍 **City Comparison**: Quick-glance temperatures of some major cities in India
 
 ## Screenshot/Demo
- * 
+ * https://github.com/Vikram-Sada-Shankar/Weather_Dashboard/blob/main/screenshot_of_dashboard.png
