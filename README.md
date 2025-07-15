@@ -1,4 +1,3 @@
-
 # 🌦️ Weather Dashboard in Power BI
 
 ## 📌 Project Overview
@@ -23,9 +22,8 @@ The goal of this project is to:
 
 ## 🔗 Data Source
 
-* **Weather Data API**: \[Weather API Provider] (e.g., OpenWeatherMap, Weatherstack, etc.)
-
-> *(Replace with your actual API source)*
+* **Weather Data API**: [WeatherAPI.com](https://www.weatherapi.com/)
+  Real-time weather and forecast data is fetched using WeatherAPI, a reliable and developer-friendly weather service.
 
 ## ✨ Features & Highlights
 
@@ -42,7 +40,7 @@ The goal of this project is to:
   * Precipitation
 * 🟢 **Air Quality Index**: Includes PM10, SO₂, CO, O₃, PM2.5, NO₂ values with status indicators
 * 🌧️ **Rain Probability Bar Chart**: Visual representation of rain chance throughout the week
-* 📍 **City Comparison**: Quick-glance temperatures of some major cities in India
+* 📍 **City Comparison**: Quick-glance temperatures of Bengaluru, Chennai, and Delhi
 
 ## Screenshot/Demo
  * https://github.com/Vikram-Sada-Shankar/Weather_Dashboard/blob/main/screenshot_of_dashboard.png
